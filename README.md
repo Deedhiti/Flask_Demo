@@ -1,0 +1,1 @@
+This a small project developed using Python and MySQL where we created API for different tasks to be performed in the database. The database used is employees which consists of employee's name, contact and age.
